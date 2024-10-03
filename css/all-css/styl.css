@@ -178,7 +178,7 @@ nav {
     height: 255px;
     align-content: space-between;
     border: 2px solid #3E3232;
-    background-color: rgba(168, 124, 124, 0.845);
+    background-color: #503C3C;
     z-index: 1111;
     text-align: left;
     padding: 15px;
@@ -202,7 +202,7 @@ nav {
 }
 
 .dwengr .dwen-ul .dwen-li a {
-    color: #3E3232;
+    color: #ffffff;
 }
 
 .dwengr .dwen-ul .dwen-li:first-child {
@@ -360,7 +360,7 @@ section {
 .info-abut {
     width: 50%;
     height: 100%;
-    color: #A87C7C;
+    color: #ffffff;
     background-color: #3E3232;
     line-height: 25px;
     padding: 6px 14px;
@@ -373,7 +373,7 @@ section {
         position: absolute;
         top: 0;
         left: 0;
-        color: #7E6363;
+        color: #ffffff;
     }
     h3 {
         margin-left: 60px;
@@ -397,7 +397,7 @@ section {
 
 .info-abut ul li {
     text-align: right;
-    background-color: #A87C7C;
+    background-color: #ffffff;
     width: 65px;
     height: 3px;
     margin-left: 10px;
